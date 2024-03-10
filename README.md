@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquincortezhub&label=Profile%20views&color=000000&style=flat" alt="joaquincortezhub" /> </p>
 
-- 🔭 I’m currently working on **Learning Python and improving my logical thinking**
+- 🔭 I’m currently working on **Learning React, Nodejs, MongoDb and improving my logical thinking**
 
-- 🌱 I’m currently learning **Python, Django, Bootstrap & Javascript**
+- 🌱 I’m currently learning **React, MogoDb, API's amd front-end technologies**
 
 - 👯 I’m looking to collaborate on **Entry-level projects & discussions.**
 
